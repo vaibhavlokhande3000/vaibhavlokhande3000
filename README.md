@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavlokhande3000
-- 👀 I’m interested in website designing and gaming
-- 🌱 I’m currently learning in 12th
+- 👀 I’m interested in website designing and gaming.
+- 🌱 I’m currently studying as 1st year computer science student.
 - 📫 How to reach me (wait for now I will update this after)
 
 <!---
